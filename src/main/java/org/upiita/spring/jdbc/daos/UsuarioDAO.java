@@ -5,7 +5,10 @@ import java.util.List;
 import org.upiita.spring.jdbc.entidades.Usuario;
 
 public interface UsuarioDAO {
- /// SIIIIIIIIII GIT
+     /// SIIIIIIIIII GIT
+	 /// SIIIIIIIIII GIT Extra
+	
+	
 	public Usuario buscaUsuarioPorId(Integer usuarioId);
 
 	public void creaUsuario(Usuario usuario);
